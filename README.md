@@ -14,8 +14,3 @@
 
 ### 💻
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracJulien&layout=compact&theme=highcontrast)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DracJulien&show_icons=true&theme=highcontrast)
-
-
-
