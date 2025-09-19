@@ -9,8 +9,9 @@
   - 🟠Bitcoin & 🔵ETH user 
   - #AllLivesMatter 👳🏽‍♀️👮🏻🧕🏾👷🏿‍♂️🥷🧟‍♂️
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracJulien&layout=compact&theme=highcontrast)
+
+
 ### Contact
   - How to reach me: juliendrac@protonmail.com
 
-### 💻
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracJulien&layout=compact&theme=highcontrast)
